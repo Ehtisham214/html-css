@@ -1,0 +1,43 @@
+git*{
+
+}
+
+h1{
+    padding-left: 20%;
+    padding-top: 20%  ;
+    padding-bottom: 20%;
+    padding-right: 20%;
+    border-style: double;
+    font-family:chiller;
+    text-align: center;
+    background-color: chartreuse;
+    color: white;
+    font-size: 80px;
+    margin: 10%;
+}
+h2{
+    border-style: double;
+    border-style: groove;
+    color: cadetblue ;font-size: 50px  ;
+}
+label{
+    border-style: double ; 
+    border-color: blue;
+    padding: 5px,10px,15px,20px;
+    color: brown ;
+}
+p{
+    background-color: black;
+    border-style: double;
+    padding: 5%;
+}
+#intro{
+color: blue; font-size: 40px;
+}
+p{
+    color: blueviolet ; font-size: 40px ;
+}
+.file
+{
+    text-align: center;
+}
